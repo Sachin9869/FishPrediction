@@ -21,3 +21,5 @@ Logistic Regression        |  75 %
 
 
 Logistic Regression - Fish_Classification.ipynb
+
+Live Application: https://fishspeciesprediction.herokuapp.com/
